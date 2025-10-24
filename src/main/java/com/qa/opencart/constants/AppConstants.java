@@ -11,8 +11,7 @@ public class AppConstants {
 	public static final String LOGIN_PAGE_TITLE="Account Login";
 	public static final String LOGIN_PAGE_FRACTION_URL="?route=account/login";
 	public static final String ACCOUNT_PAGE_FRACTION_URL="?route=account/account";
-			//"?route=account/account";
-			//"https://naveenautomationlabs.com/opencart/index.php?route=account/account";
+			
 	public static final String SEARCH_RESULT_FRACTION_TITLE="Search";
 	public static  List<String> headersList=List.of("My Account", "My Orders","My Affiliate Account","Newsletter");
 	public static final String PRODUCT_INFO_PAGE_FRACTION_URL="?route=product/product";
